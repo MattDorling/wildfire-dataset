@@ -7,8 +7,8 @@ I have collated them here and converted the annotations into the YOLOv5 format t
 
 | Link | No. of Images | Annotations by  | Images Source | License |
 | - | - | - | - | - |
-| [AiForMankind/wildfire-smoke-dataset](https://github.com/aiformankind/wildfire-smoke-dataset) | 2191 | [AI For Mankind](https://github.com/aiformankind) volunteers | [HPWREN](https://hpwren.ucsd.edu/cameras/) | [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) |
-| [open-climate-tech/firecam](https://github.com/open-climate-tech/firecam/tree/master/datasets/2019a) | 1661 | [open-climate-tech](https://github.com/open-climate-tech) | [HPWREN](https://hpwren.ucsd.edu/cameras/) | [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) |
+| [AiForMankind/wildfire-smoke-dataset](https://github.com/aiformankind/wildfire-smoke-dataset) | 2191 | [AI For Mankind](https://github.com/aiformankind) volunteers | [HPWREN](https://hpwren.ucsd.edu/cameras/) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) |
+| [open-climate-tech/firecam](https://github.com/open-climate-tech/firecam/tree/master/datasets/2019a) | 1661 | [open-climate-tech](https://github.com/open-climate-tech) | [HPWREN](https://hpwren.ucsd.edu/cameras/) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) |
 
 ## Credits
 
