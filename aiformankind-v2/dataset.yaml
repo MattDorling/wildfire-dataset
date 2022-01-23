@@ -1,6 +1,0 @@
-names:
-- smoke
-nc: 1
-path: ..
-train: training/images
-val: training/images
